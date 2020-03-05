@@ -105,7 +105,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <table id='table_9c585'  style=" ">  <tr>
     <th>Sunday</th>
     <th>Monday</th> 
-    <th>Tuesday</th>
+    <th>Tuesday</th> 
+    <th>Wednesday</th>
+    <th>Thursday</th> 
+    <th>Friday</th>
   </tr>
   <tr>
     <td>Edit me!</td>
