@@ -111,14 +111,14 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <th style="border: 1px solid black;">Friday</th> 
     <th style="border: 1px solid black;">Saturday</th>
   </tr>
-  <tr>
-    <td>Edit me!</td>
-    <td>Edit me!</td> 
-    <td>Edit me!</td> 
-    <td>Edit me!</td>
-    <td>Edit me!</td> 
-    <td>Edit me!</td> 
-    <td>Edit me!</td>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Edit me!</td>
+    <td style="border: 1px solid black;">Edit me!</td> 
+    <td style="border: 1px solid black;">Edit me!</td> 
+    <td style="border: 1px solid black;">Edit me!</td>
+    <td style="border: 1px solid black;">Edit me!</td> 
+    <td style="border: 1px solid black;">Edit me!</td> 
+    <td style="border: 1px solid black;">Edit me!</td>
   </tr></table>
 
  
