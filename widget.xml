@@ -104,12 +104,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
    
 <table id='table_9c585'  style="border: 1px solid black; ">  <tr style="border: 1px solid black;">
     <th style="border: 1px solid black;">Sunday</th>
-    <th>Monday</th> 
-    <th>Tuesday</th> 
-    <th>Wednesday</th>
-    <th>Thursday</th> 
-    <th>Friday</th> 
-    <th>Saturday</th>
+    <th style="border: 1px solid black;">Monday</th> 
+    <th style="border: 1px solid black;">Tuesday</th> 
+    <th style="border: 1px solid black;">Wednesday</th>
+    <th style="border: 1px solid black;">Thursday</th> 
+    <th style="border: 1px solid black;">Friday</th> 
+    <th style="border: 1px solid black;">Saturday</th>
   </tr>
   <tr>
     <td>Edit me!</td>
